@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery-color@2.1.2",
+      "destination": "Scripts/",
+      "files": [
+        "jquery.color.min.js"
+      ]
+    }
+  ]
+}
